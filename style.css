@@ -1,0 +1,54 @@
+body{
+   background-color: #130b80  ;
+   margin: 0;  
+   padding: 0;
+}
+
+.form {
+   width: 40%;
+   height: max-content;
+   background-color: #5954ab;
+   padding: 5%;
+   border-radius: 6px;
+   margin: 10% auto;
+   box-sizing: border-box;
+
+}
+
+.titulo_login {
+   margin: 0 0 1% 0;
+   text-align: center;
+}
+
+.form .container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   box-sizing: border-box;
+}
+
+.form label {
+   font-size: 1.1em;
+   font-weight: 400;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding: 2% 0;
+}
+
+.form input {
+   padding: 10px;
+}
+.background {
+   background-color: #130b80;
+   margin: 0;
+   padding: 0; 
+}
+.logo {
+   position: fixed;
+   top: 15%;
+   left: 47.3%;
+}
+.background2 {
+   background-color: #5954ab;
+   margin: 0;
+   padding: 0; 
+}
